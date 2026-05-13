@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCm4vQp4zXc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gyxyx\\source\\repos\\HotelReservationSystem\\HotelReservationSystem\\HotelReservationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gyxyx\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\gyxyx\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\gyxyx\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

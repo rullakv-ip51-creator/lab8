@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HotelReservationSystem.UI/1.0.0": {
+        "dependencies": {
+          "HotelReservationSystem": "1.0.0"
+        },
+        "runtime": {
+          "HotelReservationSystem.UI.dll": {}
+        }
+      },
+      "HotelReservationSystem/1.0.0": {
+        "runtime": {
+          "HotelReservationSystem.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelReservationSystem.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelReservationSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

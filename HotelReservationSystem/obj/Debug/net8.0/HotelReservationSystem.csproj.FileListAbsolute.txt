@@ -1,0 +1,11 @@
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.deps.json
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.dll
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\bin\Debug\net8.0\HotelReservationSystem.pdb
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.AssemblyInfoInputs.cache
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.AssemblyInfo.cs
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.dll
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\refint\HotelReservationSystem.dll
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\HotelReservationSystem.pdb
+C:\Users\gyxyx\source\repos\HotelReservationSystem\HotelReservationSystem\obj\Debug\net8.0\ref\HotelReservationSystem.dll
